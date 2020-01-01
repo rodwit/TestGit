@@ -1,3 +1,3 @@
 # TestGit
 
-edycja
+kolejna edycja
